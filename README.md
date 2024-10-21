@@ -8,4 +8,4 @@ This contains all the hands-on javascript projects with oops example which accom
 6. Static
 
 # Command to run the script
-node <filename>.js
+node filename.js
